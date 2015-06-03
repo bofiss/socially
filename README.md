@@ -1,0 +1,2 @@
+# socially
+Angular-meteor app
